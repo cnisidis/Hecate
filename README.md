@@ -1,4 +1,4 @@
-**Hecate *(Εκάτη)* **
+** Hecate *(Εκάτη)* **
 
 Share memory betwen my two favorite programs; 
 Blender  and vvvv
