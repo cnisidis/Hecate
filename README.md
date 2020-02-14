@@ -7,7 +7,7 @@ Blender  and vvvv
 
 This is a Blender Addon, made in purpose to exchange camera data directly by memory mapping
 
-This version is supporting only one Camera per time (and only CAMERA type objects)
+This version supports only one Camera per time (and only CAMERA type objects)
 
 
 
